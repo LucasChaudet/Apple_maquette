@@ -86,7 +86,9 @@
   align-items: flex-start;   
 }
 
-
+h3{
+    font-size: 17px;
+}
 
 .iphone-img {
     max-width: 280px;
